@@ -15,7 +15,7 @@ I’m passionate about learning! and excited by new challenges and the opportuni
 - 🌱 I’m currently learning and building anything and everything around JavaScript.
 - 💬 Ask me about JavaScript, CSS, React, Design, Products.
 - 👯 I'm looking to collaborate with open source communities that would make positive impact in our world.
-- ⚡ Fun fact: I just an Industrious Introvert who want to be happy and loves to laugh.
+- ⚡ Fun fact: I'm just an Industrious Introvert who want to be happy and loves to laugh.
 - 📫 You can reach me at chibuzornwankwo27@gmail.com,
 
 ---
